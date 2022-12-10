@@ -1,8 +1,8 @@
 /**
  * @name FavoriteMedia
  * @description Allows you to save your favorite images, videos or audios. Developed by zPrakzy#0515
- * @version 1.7.5
- * @author Prof. Michael Brauer
+ * @version 1.7.6
+ * @author ServerSecurity#0515
  * @authorId 960078734940065833
  * @invite 8QU79C6gSJ
  * @website https://linktr.ee/ServerSecurity
@@ -39,9 +39,10 @@ const config = {
     author: "ServerSecurity#0515",
     authorId: "960078734940065833",
     authorLink: "http://discordapp.com/users/960078734940065833",
-    version: "1.7.5",
+    version: "1.7.6",
     description: "Allows you to save your favorite images, videos or audios. Developed by ServerSecurity#0515",
     website: "https://linktr.ee/ServerSecurity",
+    source: "https://github.com/zPrakzy/DiscordBetter/blob/main/Plugins/FavoriteMedia",
     patreon: "",
     donate: "https://www.paypal.com/paypalme/zprakzy",
     invite: "http://discordapp.com/users/960078734940065833",
