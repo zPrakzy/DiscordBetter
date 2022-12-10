@@ -7,7 +7,7 @@
  * @invite 8QU79C6gSJ
  * @website https://linktr.ee/ServerSecurity
  * @donate https://www.paypal.com/paypalme/zprakzy
- * @source https://github.com/Dastan21/BDAddons/blob/main/plugins/FavoriteMedia
+ * @source https://github.com/zPrakzy/DiscordBetter/blob/main/Plugins/FavoriteMedia
  */
 /*@cc_on
 @if (@_jscript)
